@@ -14,8 +14,10 @@ it is a pager/fun display, and is an ap device that people can connect and inter
 
 # bom
 
- * PCB PCBA
+ * PCB (no pcba) and stencil
  * 36x SK6812 Neopixels
  * 2x 6mm Tactile Buttons
  * 1x EC11 Rotary Encoder
  * 1x Seeed Xiao ESP32-C3
+
+![alt text](image-4.png)
